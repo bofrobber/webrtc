@@ -3,10 +3,10 @@
 package ice
 
 import (
-	"github.com/pion/logging"
 	"testing"
 	"time"
 
+	"github.com/pion/logging"
 	"github.com/pion/transport/test"
 )
 

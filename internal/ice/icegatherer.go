@@ -4,11 +4,11 @@ package ice
 
 import (
 	"errors"
-	"github.com/pion/logging"
 	"sync"
 	"time"
 
 	"github.com/pion/ice"
+	"github.com/pion/logging"
 )
 
 // The ICEGatherer gathers local host, server reflexive and relay
